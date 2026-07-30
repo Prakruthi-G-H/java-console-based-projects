@@ -3,6 +3,9 @@ A simple **Java Console-Based Student Management System** that performs basic CR
 
 ## 🛠️ Technologies Used
 
+| Technology | Purpose |
+
+
 ## Project Structure
 ```bash
 student-management-system/
