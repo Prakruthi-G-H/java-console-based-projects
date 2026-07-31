@@ -9,3 +9,4 @@ A growing collection of Java console-based projects built from scratch to streng
 | OOP | Object-oriented design and implementation |
 | ArrayList | In-memory storage and CRUD operations |
 | Scanner | User input handling |
+| Eclipse IDE | Development environment |
