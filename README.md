@@ -5,3 +5,4 @@ A growing collection of Java console-based projects built from scratch to streng
 
 | Technology | Purpose |
 |------------|---------|
+| Java | Core programming language |
