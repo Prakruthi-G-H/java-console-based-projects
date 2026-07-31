@@ -7,3 +7,4 @@ A growing collection of Java console-based projects built from scratch to streng
 |------------|---------|
 | Java | Core programming language |
 | OOP | Object-oriented design and implementation |
+| ArrayList | In-memory storage and CRUD operations |
