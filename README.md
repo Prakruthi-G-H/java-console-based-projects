@@ -27,3 +27,4 @@ student-management-system/
 Each student record contains:
 
 - Student ID
+- Student Name
