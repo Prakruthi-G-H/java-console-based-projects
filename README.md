@@ -22,3 +22,4 @@ student-management-system/
 │   ├── module-info.java
 └── README.md
 ```
+## Student Details
