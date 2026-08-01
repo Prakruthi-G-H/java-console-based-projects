@@ -23,3 +23,5 @@ student-management-system/
 └── README.md
 ```
 ## Student Details
+
+Each student record contains:
