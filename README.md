@@ -29,3 +29,4 @@ Each student record contains:
 - Student ID
 - Student Name
 - Age
+- Course
