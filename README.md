@@ -10,3 +10,5 @@ A growing collection of Java console-based projects built from scratch to streng
 | ArrayList | In-memory storage and CRUD operations |
 | Scanner | User input handling |
 | Eclipse IDE | Development environment |
+
+## Project Structure
