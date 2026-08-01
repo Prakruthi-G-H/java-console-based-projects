@@ -13,3 +13,12 @@ A growing collection of Java console-based projects built from scratch to streng
 
 ## Project Structure
 ```bash
+student-management-system/
+├── src/
+│   ├── com/
+│   │   └── student/
+│   │       ├── Student.java
+│   │       └── StudentManagementSystem.java
+│   ├── module-info.java
+└── README.md
+```
