@@ -12,3 +12,4 @@ A growing collection of Java console-based projects built from scratch to streng
 | Eclipse IDE | Development environment |
 
 ## Project Structure
+```bash
