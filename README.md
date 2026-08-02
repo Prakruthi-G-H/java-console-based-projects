@@ -30,3 +30,5 @@ Each student record contains:
 - Student Name
 - Age
 - Course
+
+## 🎯 Learning Outcomes
