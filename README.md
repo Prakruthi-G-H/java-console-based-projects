@@ -40,3 +40,4 @@ This project demonstrates:
 - Collections Framework (ArrayList)
 - CRUD Operations
 - Menu-Driven Programming
+- Loops and Conditional Statements
