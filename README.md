@@ -41,3 +41,4 @@ This project demonstrates:
 - CRUD Operations
 - Menu-Driven Programming
 - Loops and Conditional Statements
+- User Input Handling using Scanner
