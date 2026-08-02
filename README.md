@@ -38,3 +38,4 @@ This project demonstrates:
 - Object-Oriented Programming (OOP)
 - Constructors and Methods
 - Collections Framework (ArrayList)
+- CRUD Operations
