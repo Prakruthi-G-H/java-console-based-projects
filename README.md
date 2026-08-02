@@ -34,3 +34,5 @@ Each student record contains:
 ## 🎯 Learning Outcomes
 
 This project demonstrates:
+
+- Object-Oriented Programming (OOP)
