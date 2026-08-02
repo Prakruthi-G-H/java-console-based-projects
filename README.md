@@ -36,3 +36,4 @@ Each student record contains:
 This project demonstrates:
 
 - Object-Oriented Programming (OOP)
+- Constructors and Methods
