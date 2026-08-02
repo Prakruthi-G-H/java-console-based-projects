@@ -32,3 +32,5 @@ Each student record contains:
 - Course
 
 ## 🎯 Learning Outcomes
+
+This project demonstrates:
