@@ -42,3 +42,5 @@ This project demonstrates:
 - Menu-Driven Programming
 - Loops and Conditional Statements
 - User Input Handling using Scanner
+
+## ▶️ How to Run
