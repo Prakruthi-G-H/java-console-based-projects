@@ -44,3 +44,5 @@ This project demonstrates:
 - User Input Handling using Scanner
 
 ## ▶️ How to Run
+
+1. Clone the repository:
