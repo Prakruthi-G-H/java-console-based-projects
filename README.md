@@ -54,3 +54,4 @@ This project demonstrates:
    ```bash
    student-management-system/src/com/student/
    ```
+4. Run the StudentManagementSystem.java file.
