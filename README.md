@@ -51,3 +51,6 @@ This project demonstrates:
    ```
 2. Open the project in Eclipse, IntelliJ IDEA, or VS Code.
 3. Navigate to:
+   ```bash
+   student-management-system/src/com/student/
+   ```
