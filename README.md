@@ -50,3 +50,4 @@ This project demonstrates:
    git clone https://github.com/Prakruthi-G-H/java-console-based-projects.git
    ```
 2. Open the project in Eclipse, IntelliJ IDEA, or VS Code.
+3. Navigate to:
