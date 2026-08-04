@@ -59,3 +59,4 @@ This project demonstrates:
 ## 🖥️ Sample Menu
 
 ******** Welcome to Student Management System ********
+1. Add Student
