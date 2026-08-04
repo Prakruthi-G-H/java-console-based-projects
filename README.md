@@ -11,7 +11,7 @@ A growing collection of Java console-based projects built from scratch to streng
 | Scanner | User input handling |
 | Eclipse IDE | Development environment |
 
-## Project Structure
+## 📂 Project Structure
 ```bash
 student-management-system/
 ├── src/
