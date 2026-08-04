@@ -55,3 +55,5 @@ This project demonstrates:
    student-management-system/src/com/student/
    ```
 4. Run the StudentManagementSystem.java file.
+
+## 🖥️ Sample Menu
