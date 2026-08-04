@@ -64,3 +64,4 @@ This project demonstrates:
 3. Search Student
 4. Update Student
 5. Delete Student
+6. Exit
