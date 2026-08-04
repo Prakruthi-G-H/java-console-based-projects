@@ -63,3 +63,4 @@ This project demonstrates:
 2. View Student
 3. Search Student
 4. Update Student
+5. Delete Student
