@@ -69,3 +69,4 @@ This project demonstrates:
 ## 🔮 Future Enhancements
 
 - Input validation
+- Search students by name
