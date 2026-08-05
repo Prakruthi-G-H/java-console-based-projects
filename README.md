@@ -72,3 +72,4 @@ This project demonstrates:
 - Search students by name
 - Prevent duplicate student IDs
 - Sort students by ID or Name
+- MySQL Database Integration using JDBC
