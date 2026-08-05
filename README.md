@@ -70,3 +70,4 @@ This project demonstrates:
 
 - Input validation
 - Search students by name
+- Prevent duplicate student IDs
