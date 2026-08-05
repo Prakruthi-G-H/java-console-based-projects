@@ -65,3 +65,5 @@ This project demonstrates:
 4. Update Student
 5. Delete Student
 6. Exit
+
+## 🔮 Future Enhancements
