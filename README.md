@@ -73,3 +73,4 @@ This project demonstrates:
 - Prevent duplicate student IDs
 - Sort students by ID or Name
 - MySQL Database Integration using JDBC
+- Exception Handling
