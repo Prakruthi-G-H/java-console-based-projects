@@ -67,3 +67,5 @@ This project demonstrates:
 6. Exit
 
 ## 🔮 Future Enhancements
+
+- Input validation
