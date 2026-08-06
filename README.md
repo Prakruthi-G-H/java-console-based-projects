@@ -58,6 +58,7 @@ This project demonstrates:
 
 ## 🖥️ Sample Menu
 
+```text
 ******** Welcome to Student Management System ********
 1. Add Student
 2. View Student
@@ -65,6 +66,7 @@ This project demonstrates:
 4. Update Student
 5. Delete Student
 6. Exit
+```
 
 ## 🔮 Future Enhancements
 
