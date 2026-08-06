@@ -6,7 +6,7 @@ A growing collection of Java console-based projects built from scratch to streng
 | Technology | Purpose |
 |------------|---------|
 | Java | Core programming language |
-| Object-Oriented Programming (OOP) | Object-oriented design and implementation |
+| Object-Oriented Programming (OOP) | Software design principles |
 | ArrayList | In-memory storage and CRUD operations |
 | Scanner | User input handling |
 | Eclipse IDE | Development environment |
