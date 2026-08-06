@@ -7,7 +7,7 @@ A growing collection of Java console-based projects built from scratch to streng
 |------------|---------|
 | Java | Core programming language |
 | Object-Oriented Programming (OOP) | Software design principles |
-| Java Collections Framework (ArrayList) | In-memory storage and CRUD operations |
+| Java Collections Framework (ArrayList) | In-memory data storage |
 | Scanner | User input handling |
 | Eclipse IDE | Development environment |
 
