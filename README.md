@@ -79,3 +79,4 @@ This project demonstrates:
 
 **Prakruthi G H**
 📍 Bangalore, India
+📧 prakruthigh28@gmail.com
