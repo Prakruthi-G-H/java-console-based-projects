@@ -1,7 +1,7 @@
 # java-console-based-projects
 
 A collection of Java console-based projects developed to strengthen programming fundamentals, object-oriented programming (OOP), logical thinking, and problem-solving skills.
-
+This repository contains beginner-friendly projects built from scratch, focusing on practical implementation of Core Java concepts and clean coding practices
 Each project is designed to reinforce fundamental Java concepts through hands-on implementation, with new projects added as the learning journey continues.
 
 ## 🛠️ Technologies Used
