@@ -8,7 +8,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
 | Technology | Purpose |
 |------------|---------|
 | Java | Core programming language |
-| Object-Oriented Programming (OOP) | Software design principles |
+| Object-Oriented Programming (OOP) | Code organization and design principles |
 | Java Collections Framework (ArrayList) | In-memory data storage |
 | Scanner | User input handling |
 | Eclipse IDE | Development environment |
