@@ -13,6 +13,8 @@ This repository contains beginner-friendly projects built from scratch, focusing
 | Scanner | User input handling |
 | Eclipse IDE | Development environment |
 
+## 📂 Projects
+
 ## 📂 Project Structure
 ```bash
 student-management-system/
