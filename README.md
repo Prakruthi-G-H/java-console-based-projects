@@ -18,7 +18,9 @@ This repository contains beginner-friendly projects built from scratch, focusing
 1. Student Management System
    A console-based Java application that allows users to manage student records through a menu-driven interface
  Features:
-   
+   - Add student details
+  
+     
 ## 📂 Project Structure
 ```bash
 student-management-system/
