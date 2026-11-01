@@ -19,6 +19,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    A console-based Java application that allows users to manage student records through a menu-driven interface
  Features:
    - Add student details
+   - View student records
   
      
 ## 📂 Project Structure
