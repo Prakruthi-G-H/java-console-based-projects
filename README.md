@@ -15,6 +15,8 @@ This repository contains beginner-friendly projects built from scratch, focusing
 
 ## 📂 Projects
 
+1. Student Management System
+
 ## 📂 Project Structure
 ```bash
 student-management-system/
