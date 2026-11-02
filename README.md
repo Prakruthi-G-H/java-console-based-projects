@@ -23,6 +23,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - Search for a student
    - Update student information
    - Delete student records
+   - Exit the application
 
 
   
