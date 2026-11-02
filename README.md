@@ -24,7 +24,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - Update student information
    - Delete student records
    - Exit the application
-
+Student Details:
 
   
      
