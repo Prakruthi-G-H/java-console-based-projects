@@ -22,6 +22,9 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - View student records
    - Search for a student
    - Update student information
+   - Delete student records
+
+
   
      
 ## 📂 Project Structure
