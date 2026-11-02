@@ -20,6 +20,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
  Features:
    - Add student details
    - View student records
+   - Search for a student
   
      
 ## 📂 Project Structure
