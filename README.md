@@ -28,6 +28,7 @@ Student Details:
 student-management-system/
 ├── src/
 │   ├── com/
+│   │   └── student/
      
 ## 📂 Project Structure
 ```bash
