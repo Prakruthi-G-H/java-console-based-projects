@@ -25,6 +25,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - Delete student records
    - Exit the application
 Student Details:
+student-management-system/
 
   
      
