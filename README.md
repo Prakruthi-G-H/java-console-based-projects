@@ -27,7 +27,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
 Student Details:
 student-management-system/
 ├── src/
-  
+│   ├── com/
      
 ## 📂 Project Structure
 ```bash
