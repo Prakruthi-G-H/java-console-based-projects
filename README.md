@@ -32,7 +32,7 @@ student-management-system/
 │   │       ├── Student.java
 │   │       └── StudentManagementSystem.java
 │   └── module-info.java
- 
+└── README.md
 ## 📂 Project Structure
 ```bash
 student-management-system/
