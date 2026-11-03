@@ -48,6 +48,8 @@ Each student record contains:
 - Age
 - Course
 
+Project Structure:
+
 ## 🎯 Learning Outcomes
 
 This project demonstrates:
