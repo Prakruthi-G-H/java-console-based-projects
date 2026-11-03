@@ -31,7 +31,8 @@ student-management-system/
 │   │   └── student/
 │   │       ├── Student.java
 │   │       └── StudentManagementSystem.java
-     
+│   └── module-info.java
+ 
 ## 📂 Project Structure
 ```bash
 student-management-system/
