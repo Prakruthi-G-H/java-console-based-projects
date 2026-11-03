@@ -26,7 +26,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - Exit the application
 Student Details:
 student-management-system/
-
+├── src/
   
      
 ## 📂 Project Structure
@@ -50,6 +50,8 @@ Each student record contains:
 - Course
 
 Project Structure:
+
+
 
 ## 🎯 Learning Outcomes
 
