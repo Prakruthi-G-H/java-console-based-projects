@@ -29,6 +29,7 @@ student-management-system/
 ├── src/
 │   ├── com/
 │   │   └── student/
+│   │       ├── Student.java
      
 ## 📂 Project Structure
 ```bash
