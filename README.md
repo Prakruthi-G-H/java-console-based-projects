@@ -26,6 +26,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - Exit the application
 Student Details:
    - Student ID
+   - Student Name
 ```bash
 student-management-system/
 ├── src/
