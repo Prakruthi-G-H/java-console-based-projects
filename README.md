@@ -25,6 +25,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
    - Delete student records
    - Exit the application
 Student Details:
+   - Student ID
 ```bash
 student-management-system/
 ├── src/
@@ -48,17 +49,6 @@ student-management-system/
 │   ├── module-info.java
 └── README.md
 ```
-## Student Details
-
-Each student record contains:
-
-- Student ID
-- Student Name
-- Age
-- Course
-
-Project Structure:
-
 
 
 ## 🎯 Learning Outcomes
