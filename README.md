@@ -29,6 +29,7 @@ Student Details:
    - Student ID
    - Student Name
    - Age
+   - Course
 
 ```bash
 student-management-system/
