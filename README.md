@@ -28,6 +28,7 @@ This repository contains beginner-friendly projects built from scratch, focusing
 Student Details:
    - Student ID
    - Student Name
+   - Age
 
 ```bash
 student-management-system/
