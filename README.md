@@ -31,6 +31,8 @@ Student Details:
    - Age
    - Course
 
+Project Structure:
+
 ```bash
 student-management-system/
 ├── src/
