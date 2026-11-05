@@ -31,18 +31,6 @@ Student Details:
    - Age
    - Course
 
-Project Structure:
-
-```bash
-student-management-system/
-├── src/
-│   ├── com/
-│   │   └── student/
-│   │       ├── Student.java
-│   │       └── StudentManagementSystem.java
-│   └── module-info.java
-└── README.md
-```
 
 
 ## 📂 Project Structure
