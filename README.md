@@ -45,6 +45,8 @@ student-management-system/
 └── README.md
 ```
 ## 🧠 Concepts Practiced
+- Core Java fundamentals
+- 
 
 ## 🎯 Learning Outcomes
 
