@@ -49,6 +49,7 @@ student-management-system/
 - Object-Oriented Programming (OOP)
 - Classes and Objects
 - Constructors and Methods
+- Java Collections Framework (ArrayList)
 
 ## 🎯 Learning Outcomes
 
