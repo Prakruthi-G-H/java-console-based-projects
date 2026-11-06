@@ -48,6 +48,7 @@ student-management-system/
 - Core Java fundamentals
 - Object-Oriented Programming (OOP)
 - Classes and Objects
+- Constructors and Methods
 
 ## 🎯 Learning Outcomes
 
