@@ -47,6 +47,7 @@ student-management-system/
 ## 🧠 Concepts Practiced
 - Core Java fundamentals
 - Object-Oriented Programming (OOP)
+- Classes and Objects
 
 ## 🎯 Learning Outcomes
 
