@@ -55,17 +55,6 @@ student-management-system/
 - Loops and Conditional Statements
 - User Input Handling using Scanner
 
-## 🎯 Learning Outcomes
-
-This project demonstrates:
-
-- Object-Oriented Programming (OOP)
-- Constructors and Methods
-- Collections Framework (ArrayList)
-- CRUD Operations
-- Menu-Driven Programming
-- Loops and Conditional Statements
-- User Input Handling using Scanner
 
 ## ▶️ How to Run
 
