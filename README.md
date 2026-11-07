@@ -51,6 +51,7 @@ student-management-system/
 - Constructors and Methods
 - Java Collections Framework (ArrayList)
 - CRUD Operations
+- Menu-Driven Programming
 
 ## 🎯 Learning Outcomes
 
