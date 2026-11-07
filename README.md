@@ -52,6 +52,7 @@ student-management-system/
 - Java Collections Framework (ArrayList)
 - CRUD Operations
 - Menu-Driven Programming
+- Loops and Conditional Statements
 
 ## 🎯 Learning Outcomes
 
