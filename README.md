@@ -59,7 +59,7 @@ student-management-system/
 ## ▶️ How to Run
 
 Prerequisites
-
+- Java Development Kit (JDK)
 
 
 
