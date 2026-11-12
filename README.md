@@ -60,6 +60,7 @@ student-management-system/
 
 Prerequisites
 - Java Development Kit (JDK)
+- Eclipse IDE or another Java-compatible IDE
 
 
 
