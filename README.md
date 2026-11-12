@@ -58,6 +58,11 @@ student-management-system/
 
 ## ▶️ How to Run
 
+Prerequisites
+
+
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Prakruthi-G-H/java-console-based-projects.git
