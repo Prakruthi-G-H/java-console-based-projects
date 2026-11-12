@@ -62,7 +62,7 @@ Prerequisites
 - Java Development Kit (JDK)
 - Eclipse IDE or another Java-compatible IDE
 
-
+Steps
 
 1. Clone the repository:
    ```bash
