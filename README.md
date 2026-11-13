@@ -76,6 +76,8 @@ Steps
    student-management-system/src/com/student/
    ```
 4. Run the application
+   Run StudentManagementSystem.java from your IDE
+
 5. Follow the menu displayed in the console.
 
 ## 🖥️ Sample Menu
