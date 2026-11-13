@@ -75,7 +75,7 @@ Steps
    ```bash
    student-management-system/src/com/student/
    ```
-4. Run the StudentManagementSystem.java file.
+4. Run the application
 5. Follow the menu displayed in the console.
 
 ## 🖥️ Sample Menu
