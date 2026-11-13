@@ -69,6 +69,8 @@ Steps
    git clone https://github.com/Prakruthi-G-H/java-console-based-projects.git
    ```
 2. Open the project
+   Open the cloned repository in Eclipse, IntelliJ IDEA, or VS Code.
+ 
 3. Navigate to:
    ```bash
    student-management-system/src/com/student/
