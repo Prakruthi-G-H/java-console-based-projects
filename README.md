@@ -71,7 +71,7 @@ Steps
 2. Open the project
    Open the cloned repository in Eclipse, IntelliJ IDEA, or VS Code.
  
-3. Navigate to:
+3. Navigate to the source directory
    ```bash
    student-management-system/src/com/student/
    ```
