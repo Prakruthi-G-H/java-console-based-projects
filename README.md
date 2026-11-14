@@ -98,7 +98,7 @@ Enter your choice:
 ## 🔮 Future Enhancements
 
 - Implement input validation
-- Search students by name
+- Add search functionality by student name
 - Prevent duplicate student IDs
 - Sort students by ID or Name
 - MySQL Database Integration using JDBC
