@@ -91,6 +91,8 @@ Steps
 4. Update Student
 5. Delete Student
 6. Exit
+
+Enter your choice:
 ```
 
 ## 🔮 Future Enhancements
