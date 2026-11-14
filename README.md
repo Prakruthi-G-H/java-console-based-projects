@@ -79,7 +79,8 @@ Steps
    Run StudentManagementSystem.java from your IDE
 
 5. Follow the menu displayed in the console.
-
+   Follow the menu displayed in the console to manage student records.
+   
 ## 🖥️ Sample Menu
 
 ```text
