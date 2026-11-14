@@ -97,7 +97,7 @@ Enter your choice:
 
 ## 🔮 Future Enhancements
 
-- Input validation
+- Implement input validation
 - Search students by name
 - Prevent duplicate student IDs
 - Sort students by ID or Name
