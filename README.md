@@ -100,7 +100,7 @@ Enter your choice:
 - Implement input validation
 - Add search functionality by student name
 - Prevent duplicate student IDs
-- Sort students by ID or Name
+- Implement sorting by student ID or name
 - MySQL Database Integration using JDBC
 - Exception Handling
 
