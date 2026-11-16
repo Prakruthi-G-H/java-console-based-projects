@@ -84,7 +84,7 @@ Steps
 
 8. Follow the menu displayed in the console.
 
-   Follow the menu displayed in the console to manage student records.
+   Use the displayed menu to manage student records.
    
 ## 💻 Sample Console Menu
 
