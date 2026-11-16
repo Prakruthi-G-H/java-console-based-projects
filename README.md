@@ -74,13 +74,14 @@ Steps
    Open the cloned repository in Eclipse, IntelliJ IDEA, or VS Code.
  
 4. Navigate to the source directory
+
    ```bash
    student-management-system/src/com/student/
    ```
-5. Run the application
+6. Run the application
    Run StudentManagementSystem.java from your IDE
 
-6. Follow the menu displayed in the console.
+7. Follow the menu displayed in the console.
    Follow the menu displayed in the console to manage student records.
    
 ## 💻 Sample Console Menu
