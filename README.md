@@ -70,16 +70,17 @@ Steps
    git clone https://github.com/Prakruthi-G-H/java-console-based-projects.git
    ```
 2. Open the project
+
    Open the cloned repository in Eclipse, IntelliJ IDEA, or VS Code.
  
-3. Navigate to the source directory
+4. Navigate to the source directory
    ```bash
    student-management-system/src/com/student/
    ```
-4. Run the application
+5. Run the application
    Run StudentManagementSystem.java from your IDE
 
-5. Follow the menu displayed in the console.
+6. Follow the menu displayed in the console.
    Follow the menu displayed in the console to manage student records.
    
 ## 💻 Sample Console Menu
