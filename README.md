@@ -101,7 +101,7 @@ Enter your choice:
 - Add search functionality by student name
 - Prevent duplicate student IDs
 - Implement sorting by student ID or name
-- MySQL Database Integration using JDBC
+- Integrate MySQL using JDBC
 - Exception Handling
 
 ## 👩‍💻 Author
