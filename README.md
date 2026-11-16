@@ -102,7 +102,7 @@ Enter your choice:
 - Prevent duplicate student IDs
 - Implement sorting by student ID or name
 - Integrate MySQL using JDBC
-- Exception Handling
+- Improve exception handling
 
 ## 👩‍💻 Author
 
