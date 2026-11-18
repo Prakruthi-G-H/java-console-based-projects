@@ -8,6 +8,8 @@ The Student Management System provides a simple way to maintain student informat
 
 | Technology | Purpose |
 
+## Key Features
+
 
 ## Project Structure
 ```bash
