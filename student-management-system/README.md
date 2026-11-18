@@ -2,7 +2,7 @@
 A menu-driven Java console application that allows users to manage student records through CRUD (Create, Read, Update, Delete) operations.
 
 # Application Overview
-The application provides a menu-driven interface that allows users to manage student information through the console.
+The Student Management System provides a simple way to maintain student information. Users can add, view, search, update, and delete student records through an interactive console menu.
 
 ## 🛠️ Technologies Used
 
