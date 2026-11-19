@@ -10,6 +10,7 @@ The Student Management System provides a simple way to maintain student informat
 
 ## Key Features
 - Add Student: Add new student records
+- View Students: Display the available student records
 
 
 ## Project Structure
