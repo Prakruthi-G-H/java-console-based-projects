@@ -13,6 +13,7 @@ The Student Management System provides a simple way to maintain student informat
 - View Students: Display the available student records
 - Search Student: Search for a student record
 - Update Student: Modify existing student information
+- Delete Student: Remove a student record
 
 
 ## Project Structure
