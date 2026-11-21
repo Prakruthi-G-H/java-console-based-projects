@@ -17,6 +17,8 @@ The Student Management System provides a simple way to maintain student informat
 
 ## Student Information
 
+Each record contains:
+
 ## Project Structure
 ```bash
 student-management-system/
