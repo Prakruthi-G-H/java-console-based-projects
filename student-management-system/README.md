@@ -15,6 +15,7 @@ The Student Management System provides a simple way to maintain student informat
 - Update Student: Modify existing student information
 - Delete Student: Remove a student record
 
+## Student Information
 
 ## Project Structure
 ```bash
