@@ -21,6 +21,7 @@ Each record contains:
 - Student ID
 - Student Name
 - Age
+- Course
 
 ## Project Structure
 ```bash
