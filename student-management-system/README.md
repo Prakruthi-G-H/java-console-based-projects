@@ -6,8 +6,7 @@ The Student Management System provides a simple way to maintain student informat
 
 ## 🛠️ Technologies Used
 
-- Java
-- Object-Oriented Programming
+| Technology | Purpose |
 
 ## Key Features
 - Add Student: Add new student records
