@@ -7,6 +7,7 @@ The Student Management System provides a simple way to maintain student informat
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
+|------------|---------|
 
 ## Key Features
 - Add Student: Add new student records
