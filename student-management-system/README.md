@@ -12,6 +12,7 @@ The Student Management System provides a simple way to maintain student informat
 | Object-Oriented Programming (OOP) | Code organization and design principles |
 | Java Collections Framework (ArrayList) | In-memory data storage |
 | Scanner | User input handling |
+| Eclipse IDE | Development environment |
 
 ## Key Features
 - Add Student: Add new student records
