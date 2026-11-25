@@ -10,6 +10,7 @@ The Student Management System provides a simple way to maintain student informat
 |------------|---------|
 | Java | Core programming language |
 | Object-Oriented Programming (OOP) | Code organization and design principles |
+| Java Collections Framework (ArrayList) | In-memory data storage |
 
 ## Key Features
 - Add Student: Add new student records
