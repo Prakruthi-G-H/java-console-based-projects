@@ -8,6 +8,7 @@ The Student Management System provides a simple way to maintain student informat
 
 | Technology | Purpose |
 |------------|---------|
+| Java | Core programming language |
 
 ## Key Features
 - Add Student: Add new student records
