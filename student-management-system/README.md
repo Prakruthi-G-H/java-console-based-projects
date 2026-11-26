@@ -43,6 +43,7 @@ student-management-system/
 
 ## Sample Console Menu
 
+```bash
 ******** Welcome to Student Management System ********
 
 1. Add Student
