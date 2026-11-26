@@ -44,3 +44,5 @@ student-management-system/
 ## Sample Console Menu
 
 ******** Welcome to Student Management System ********
+
+1. Add Student
