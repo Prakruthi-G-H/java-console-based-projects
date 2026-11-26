@@ -40,3 +40,5 @@ student-management-system/
 │   ├── module-info.java
 └── README.md
 ```
+
+## Sample Console Menu
