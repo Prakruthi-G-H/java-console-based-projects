@@ -49,3 +49,4 @@ student-management-system/
 1. Add Student
 2. View Student
 3. Search Student
+4. Update Student
